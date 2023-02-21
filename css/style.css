@@ -1,0 +1,24 @@
+.general {
+background-color: cadetblue;
+display: flex;
+flex-direction: row;
+margin-top: 100px;
+}
+.navbar_img {
+   
+}
+.article {
+ 
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 100px;
+  padding-left: 80px;
+}
+.avtor {
+    
+    display: flex;
+    align-items: center;
+   justify-content: space-evenly;
+   margin-top: 100px;
+}
